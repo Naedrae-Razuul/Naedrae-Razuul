@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Naedrae-Razuul
+- 👀 I’m interested in learning new things and better-ing myself
+- 🌱 I’m currently learning python and lua
+- 💞️ I’m looking to collaborate on nothing at the moment
+- 📫 How to reach me: EMail @ nathanwmasson@gmail.com
