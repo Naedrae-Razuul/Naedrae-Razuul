@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Python and Javascript!
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: Email @ nathanwmasson@gmail.com
+- o/ I'm 16!
