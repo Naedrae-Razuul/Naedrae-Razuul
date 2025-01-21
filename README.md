@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Naedrae-Razuul
-- 👀 I’m interested in learning new things and better-ing myself
-- 🌱 I’m currently learning Python and Javascript!
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me: Email @ nathanwmasson@gmail.com
-- o/ I'm 17!
+- Hello, I'm Nate!
+- Born in 2006 / 18 y/o
+- Intermediate Python scripter
+- Not a programmer
+- Be warned; my code is very unorganized. Open to criticism!
